@@ -1,7 +1,5 @@
 # User Roles and Permissions APIs in Node.js & MongoDB
 
-[![Tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fvickypandey14%2FUser-Roles-and-Permissions-APIs-in-Node-JS-MongoDB.git)](https://twitter.com/intent/tweet?text=Check%20out%20this%20User%20Roles%20and%20Permissions%20API%20project%20built%20with%20Node.js%20%26%20MongoDB%3A%20https%3A%2F%2Fgithub.com%2Fvickypandey14%2FUser-Roles-and-Permissions-APIs-in-Node-JS-MongoDB.git)
-
 A simple repository for managing user roles and permissions through APIs using Node.js and MongoDB.
 
 ## Features
